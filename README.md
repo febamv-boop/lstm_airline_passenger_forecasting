@@ -32,8 +32,7 @@ Inverse Scaling (Back to Log values)
 Exponential Function (Back to real passenger counts)
 
 #### Results
-Metric  Training Set  Test Set
-MAE      11.75         32.44
-RMSE     15.28         41.10
-MAPE     5.18%         6.95%
-R2Score  0.951         0.7178
+MAE for train: 11.75  ;  MAE for test: 32.44;
+RMSE for train:15.28  ;  RMSE for test  41.10;
+MAPE for train: 5.18% ;  MAPE for test  6.95%;
+R2Score for train: 0.951 ;  R2Score for test   0.7178
